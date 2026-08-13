@@ -1,0 +1,4 @@
+APScheduler>=3.10,<4
+pywhatkit>=5.4
+slack-sdk>=3.35
+python-dotenv>=1.0

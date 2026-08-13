@@ -1,0 +1,26 @@
+{
+  "messages": [
+    {
+      "type": "slack",
+      "name": "Daily Team Reminder",
+      "channel": "#general",
+      "message": "☀️ Good morning team! Don't forget today's priorities and meeting.",
+      "time": "09:00"
+    },
+    {
+      "type": "whatsapp",
+      "name": "Morning Reminder",
+      "phone": "+33123456789",
+      "message": "Good morning! ☀️ Have a productive day!",
+      "time": "09:05"
+    },
+    {
+      "type": "whatsapp",
+      "name": "Birthday Wish",
+      "phone": "+33123456789",
+      "message": "🎂 Happy Birthday! Have an amazing day! 🎉",
+      "time": "09:10",
+      "date": "08-20"
+    }
+  ]
+}
